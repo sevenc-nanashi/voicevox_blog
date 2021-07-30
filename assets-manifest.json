@@ -1,6 +1,9 @@
 {
   "main.js": "render-page.js",
   "render-page.js.map": "render-page.js.map",
+  "static/landing-movie-thumb.png": "static/landing-movie-thumb-1b9af402783915bf57ce0d4ff0bdd305.png",
+  "static/landing-share-thumb.jpg": "static/landing-share-thumb-43f7b782e67ad49671b066dc061819ae.jpg",
+  "static/landing.mp4": "static/landing-e0d8c78040ece4a2f137628fd527f99c.mp4",
   "static/metan-001.wav": "static/metan-001-9a48a1a10ddf26ea0a62f1e5949915f0.wav",
   "static/metan-002.wav": "static/metan-002-5dce05d7830d14aec01f28e86582a459.wav",
   "static/metan-003.wav": "static/metan-003-7e075345eb0d6c93cc92359108d815bf.wav",
