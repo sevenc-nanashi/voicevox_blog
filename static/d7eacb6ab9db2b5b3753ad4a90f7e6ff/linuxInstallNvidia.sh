@@ -13,7 +13,7 @@
 ## ターミナルでインストールを実行する
 # 1. ターミナルを起動する
 # 2. 次のように入力して実行する
-#    bash linux_install.sh
+#    bash [ファイル名].sh
 
 curl -fsSL https://raw.githubusercontent.com/Hiroshiba/voicevox/0.7.5/build/installer_linux.sh |
-    VERSION=0.7.5 NAME=linux-cpu-appimage bash
+    VERSION=0.7.5 bash
