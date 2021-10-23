@@ -15,5 +15,5 @@
 # 2. 次のように入力して実行する
 #    bash [ファイル名].sh
 
-curl -fsSL https://raw.githubusercontent.com/Hiroshiba/voicevox/0.7.5/build/installer_linux.sh |
+curl -fsSL https://raw.githubusercontent.com/Hiroshiba/voicevox/main/build/installer_linux.sh |
     VERSION=0.7.5 bash
