@@ -13,22 +13,23 @@
 ## ターミナルでインストールを実行する
 # 1. ターミナルを起動する
 # 2. 次のように入力して実行する
-#    bash [ファイル名].sh
+#    chmod +x [ファイル名].sh
+#    ./[ファイル名].sh
 
 if ! command -v curl &>/dev/null; then
-    echo ""
-    echo "* curl コマンドが見つかりません。"
-    echo ""
-    echo "以下のコマンドを実行してください。"
-    echo ""
-    echo "Ubuntu/Debian:"
-    echo "    sudo apt install curl"
-    echo ""
-    echo "CentOS/Fedora:"
-    echo "    sudo dnf install curl"
-    echo "もしくは"
-    echo "    sudo yum install curl"
-    echo ""
+    cat <<'EOS'
+* curl コマンドが見つかりません。
+
+以下のコマンドを実行してください。
+
+Ubuntu/Debian:
+    sudo apt install curl
+
+CentOS/Fedora:
+    sudo dnf install curl
+もしくは
+    sudo yum install curl
+EOS
     sleep 365d
     exit 1
 fi
