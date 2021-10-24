@@ -15,5 +15,23 @@
 # 2. 次のように入力して実行する
 #    bash [ファイル名].sh
 
+if ! command -v curl &>/dev/null; then
+    echo ""
+    echo "* curl コマンドが見つかりません。"
+    echo ""
+    echo "以下のコマンドを実行してください。"
+    echo ""
+    echo "Ubuntu/Debian:"
+    echo "    sudo apt install curl"
+    echo ""
+    echo "CentOS/Fedora:"
+    echo "    sudo dnf install curl"
+    echo "もしくは"
+    echo "    sudo yum install curl"
+    echo ""
+    sleep 365d
+    exit 1
+fi
+
 curl -fsSL https://raw.githubusercontent.com/Hiroshiba/voicevox/main/build/installer_linux.sh |
     VERSION=0.7.5 bash
