@@ -1,6 +1,10 @@
 {
   "main.js": "render-page.js",
   "render-page.js.map": "render-page.js.map",
+  "static/hau-01.wav": "static/hau-01-230737f4ddfe9ca900ddb72ad3a34f0f.wav",
+  "static/hau-02.wav": "static/hau-02-1e027812658cc5f65b5b40c31fe49301.wav",
+  "static/hau-03.wav": "static/hau-03-b23b02a3a29428384f7334aa7b82a66b.wav",
+  "static/hau-04.wav": "static/hau-04-79dd9d522f3eb48da677261e18901baa.wav",
   "static/landing-movie-thumb.png": "static/landing-movie-thumb-1b9af402783915bf57ce0d4ff0bdd305.png",
   "static/landing-share-thumb.jpg": "static/landing-share-thumb-bae003080155cf8cc56d1fd7bf826bff.jpg",
   "static/landing.mp4": "static/landing-69ef7841f8ed79ae999dc6cfb49e0a77.mp4",
