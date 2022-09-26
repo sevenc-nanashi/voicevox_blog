@@ -23,8 +23,8 @@
   "component---src-pages-dormitory-tsx.js": "component---src-pages-dormitory-tsx-34ca467bc949e0fd1396.js",
   "component---src-pages-how-to-use-tsx-ad8d1c8119ae455dfb85.js.map": "component---src-pages-how-to-use-tsx-ad8d1c8119ae455dfb85.js.map",
   "component---src-pages-how-to-use-tsx.js": "component---src-pages-how-to-use-tsx-ad8d1c8119ae455dfb85.js",
-  "component---src-pages-index-tsx-1ffc5057f10d99dd072e.js.map": "component---src-pages-index-tsx-1ffc5057f10d99dd072e.js.map",
-  "component---src-pages-index-tsx.js": "component---src-pages-index-tsx-1ffc5057f10d99dd072e.js",
+  "component---src-pages-index-tsx-a56963a6afae816cc299.js.map": "component---src-pages-index-tsx-a56963a6afae816cc299.js.map",
+  "component---src-pages-index-tsx.js": "component---src-pages-index-tsx-a56963a6afae816cc299.js",
   "component---src-pages-qa-tsx-e29ec1431cdc07ab99c9.js.map": "component---src-pages-qa-tsx-e29ec1431cdc07ab99c9.js.map",
   "component---src-pages-qa-tsx.js": "component---src-pages-qa-tsx-e29ec1431cdc07ab99c9.js",
   "component---src-pages-term-tsx-04dce55953c0a9e0f91e.js.map": "component---src-pages-term-tsx-04dce55953c0a9e0f91e.js.map",
@@ -45,8 +45,8 @@
   "static/goki-05.wav": "static/goki-05-2fa571313e73dd6d74e453aeb0a973a6.wav",
   "static/goki-normal-001.wav": "static/goki-normal-001-08107d415ac6164f877cdfea47c6be97.wav",
   "static/goki-normal-002.wav": "static/goki-normal-002-1b3265513f4101de4fc078054d3abb9d.wav",
-  "static/goki-normal-003.wav": "static/goki-normal-003-b64ef9b1df8f522b45d703069f04e0f1.wav",
-  "static/goki-nuigurumi-001.wav": "static/goki-nuigurumi-001-c8a66b179e72be6f39422870eef39762.wav",
+  "static/goki-normal-003.wav": "static/goki-normal-003-c8a66b179e72be6f39422870eef39762.wav",
+  "static/goki-nuigurumi-001.wav": "static/goki-nuigurumi-001-b64ef9b1df8f522b45d703069f04e0f1.wav",
   "static/goki-nuigurumi-002.wav": "static/goki-nuigurumi-002-9ad65d17f5d6270555bc90edd9c46921.wav",
   "static/goki-nuigurumi-003.wav": "static/goki-nuigurumi-003-6b5852a275cdabac005d0ee1def1ce41.wav",
   "static/hau-001.wav": "static/hau-001-f6f5cf0f0d7cbaef5a220df94766973b.wav",
@@ -204,6 +204,6 @@
   "static/zundamon-whis-002.wav": "static/zundamon-whis-002-da4fe7ebdbab75d54f4e54a97a8fdc4c.wav",
   "static/zundamon-whis-003.wav": "static/zundamon-whis-003-745eafe5ac92d86a481badb4913c7cb3.wav",
   "styles.css": "styles.5187652c804888620924.css",
-  "webpack-runtime-a1fc90d97bd6a690e32d.js.map": "webpack-runtime-a1fc90d97bd6a690e32d.js.map",
-  "webpack-runtime.js": "webpack-runtime-a1fc90d97bd6a690e32d.js"
+  "webpack-runtime-89f0f6f92683e4718af6.js.map": "webpack-runtime-89f0f6f92683e4718af6.js.map",
+  "webpack-runtime.js": "webpack-runtime-89f0f6f92683e4718af6.js"
 }
